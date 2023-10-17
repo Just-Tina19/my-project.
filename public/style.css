@@ -1,0 +1,65 @@
+@media (min-width:600px) and (max-width:600px) {
+   .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    
+}
+
+.innercontainer {
+    background-color: #22577a;
+    border: 1px solid #909089;
+    
+}
+
+.L {
+    position: relative;
+    top: -102px;
+    right:130px;
+    color: white;
+}
+
+.O {
+    position: relative;
+    top: 10px;
+    right:170px;
+    color: white;
+}
+
+.V {
+    position: relative;
+    top: 130px;
+    right: 210px;
+    color: white;
+}
+
+
+.E {
+    position: relative;
+    top:250px;
+    right: 250px;
+    color: white;
+}
+
+h1 {
+    font-weight: bold;
+    color: white;
+}
+
+.btn:hover {
+    background-color: goldenrod;
+}
+
+.btn {
+    background-color: pink;
+    color: white;
+    font-size: larger;
+}
+
+h2 {
+    color: white;
+} 
+}
+
+
